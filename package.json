@@ -1,5 +1,5 @@
 {
-  "name": "gabrielgodoy.github.io",
+  "name": "gabriel-godoy.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielgodoy/gabrielgodoy.github.io.git"
+    "url": "git+https://github.com/gabrielgodoy/gabriel-godoy.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gabrielgodoy/gabrielgodoy.github.io/issues"
+    "url": "https://github.com/gabrielgodoy/gabriel-godoy.github.io/issues"
   },
-  "homepage": "https://github.com/gabrielgodoy/gabrielgodoy.github.io#readme",
+  "homepage": "https://github.com/gabrielgodoy/gabriel-godoy.github.io#readme",
   "devDependencies": {
     "browser-sync": "^2.11.1",
     "gulp": "^3.9.1",
