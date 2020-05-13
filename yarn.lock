@@ -1951,6 +1951,10 @@ jeet@6.1.2:
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/jeet/-/jeet-6.1.2.tgz#5d90f54df9cb953a89d79fadaabf509a87e19291"
 
+jekyll@^3.0.0-beta1:
+  version "3.0.0-beta1"
+  resolved "https://registry.yarnpkg.com/jekyll/-/jekyll-3.0.0-beta1.tgz#32749f03004cff217bf29988f6e4420606479ff9"
+
 jodid25519@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/jodid25519/-/jodid25519-1.0.2.tgz#06d4912255093419477d425633606e0e90782967"
@@ -2275,8 +2279,8 @@ lodash.mapvalues@^4.4.0:
   resolved "https://registry.yarnpkg.com/lodash.mapvalues/-/lodash.mapvalues-4.6.0.tgz#1bafa5005de9dd6f4f26668c30ca37230cc9689c"
 
 lodash.merge@^4.4.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.0.tgz#69884ba144ac33fe699737a6086deffadd0f89c5"
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
 
 lodash.partialright@^4.1.4:
   version "4.2.1"
